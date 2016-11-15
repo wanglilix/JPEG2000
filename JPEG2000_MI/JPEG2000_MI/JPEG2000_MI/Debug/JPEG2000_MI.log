@@ -1,0 +1,109 @@
+﻿  tgt.c
+  tcd.c
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\tcd.c(932): warning C4068: 未知的杂注
+  t2.c
+  t1.c
+  raw.c
+  pi.c
+  openjpeg.c
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(15): warning C4273: “mi_set_info_handler”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1157): note: 参见“mi_set_info_handler”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(30): warning C4273: “mi_set_warning_handler”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1166): note: 参见“mi_set_warning_handler”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(45): warning C4273: “mi_set_error_handler”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1175): note: 参见“mi_set_error_handler”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(113): warning C4273: “mi_create_decompress”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1191): note: 参见“mi_create_decompress”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(285): warning C4273: “mi_set_default_decoder_parameters”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1213): note: 参见“mi_set_default_decoder_parameters”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(302): warning C4273: “mi_setup_decoder”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1224): note: 参见“mi_setup_decoder”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(322): warning C4273: “mi_read_header”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1236): note: 参见“mi_read_header”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(345): warning C4273: “mi_decode”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1265): note: 参见“mi_decode”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(368): warning C4273: “mi_set_decode_area”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1252): note: 参见“mi_set_decode_area”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(393): warning C4273: “mi_read_tile_header”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1332): note: 参见“mi_read_tile_header”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(421): warning C4273: “mi_decode_tile_data”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1353): note: 参见“mi_decode_tile_data”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(444): warning C4273: “mi_get_decoded_tile”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1279): note: 参见“mi_get_decoded_tile”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(465): warning C4273: “mi_set_decoded_resolution_factor”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1291): note: 参见“mi_set_decoded_resolution_factor”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(481): warning C4273: “mi_create_compress”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1366): note: 参见“mi_create_compress”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(576): warning C4273: “mi_set_default_encoder_parameters”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1389): note: 参见“mi_set_default_encoder_parameters”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(607): warning C4273: “mi_setup_encoder”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1397): note: 参见“mi_setup_encoder”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(625): warning C4273: “mi_start_compress”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1407): note: 参见“mi_start_compress”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(642): warning C4273: “mi_encode”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1426): note: 参见“mi_encode”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(660): warning C4273: “mi_end_compress”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1416): note: 参见“mi_end_compress”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(677): warning C4273: “mi_end_decompress”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1205): note: 参见“mi_end_decompress”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(697): warning C4273: “mi_set_MCT”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1514): note: 参见“mi_set_MCT”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(728): warning C4273: “mi_write_tile”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1305): note: 参见“mi_write_tile”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(751): warning C4273: “mi_destroy_codec”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1198): note: 参见“mi_destroy_codec”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(772): warning C4273: “mi_dump_codec”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1450): note: 参见“mi_dump_codec”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(786): warning C4273: “mi_get_cstr_info”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1462): note: 参见“mi_get_cstr_info”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(796): warning C4273: “mi_destroy_cstr_info”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1439): note: 参见“mi_destroy_cstr_info”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(813): warning C4273: “mi_get_cstr_index”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1472): note: 参见“mi_get_cstr_index”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(824): warning C4273: “mi_destroy_cstr_index”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1474): note: 参见“mi_destroy_cstr_index”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(832): warning C4273: “mi_stream_create_default_file_stream”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1135): note: 参见“mi_stream_create_default_file_stream”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.c(840): warning C4273: “mi_stream_create_file_stream”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1142): note: 参见“mi_stream_create_file_stream”的前一个定义
+  mqc.c
+  mi_malloc.c
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\mi_malloc.c(67): warning C4013: “opj_aligned_alloc_n”未定义；假设外部返回 int
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\mi_malloc.c(67): warning C4047: “return”:“void *”与“int”的间接级别不同
+  mi_clock.c
+  mct.c
+  jp2.c
+  j2k.c
+  invert.c
+  image.c
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\image.c(9): warning C4273: “mi_image_create”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1033): note: 参见“mi_image_create”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\image.c(50): warning C4273: “mi_image_destroy”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1040): note: 参见“mi_image_destroy”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\image.c(178): warning C4273: “mi_image_tile_create”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1051): note: 参见“mi_image_tile_create”的前一个定义
+  function_list.c
+  event.c
+  dwt.c
+  cio.c
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(114): warning C4273: “mi_stream_create”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1076): note: 参见“mi_stream_create”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(150): warning C4273: “mi_stream_default_create”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1066): note: 参见“mi_stream_default_create”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(155): warning C4273: “mi_stream_destroy”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1084): note: 参见“mi_stream_destroy”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(169): warning C4273: “mi_stream_set_read_function”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1091): note: 参见“mi_stream_set_read_function”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(180): warning C4273: “mi_stream_set_seek_function”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1112): note: 参见“mi_stream_set_seek_function”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(190): warning C4273: “mi_stream_set_write_function”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1098): note: 参见“mi_stream_set_write_function”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(201): warning C4273: “mi_stream_set_skip_function”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1105): note: 参见“mi_stream_set_skip_function”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(212): warning C4273: “mi_stream_set_user_data”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1120): note: 参见“mi_stream_set_user_data”的前一个定义
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\cio.c(221): warning C4273: “mi_stream_set_user_data_length”: dll 链接不一致
+  d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi\openjpeg.h(1128): note: 参见“mi_stream_set_user_data_length”的前一个定义
+  bio.c
+  正在生成代码...
+  JPEG2000_MI.vcxproj -> D:\JPEG2000_MI\JPEG2000_MI\Debug\JPEG2000_MI.lib

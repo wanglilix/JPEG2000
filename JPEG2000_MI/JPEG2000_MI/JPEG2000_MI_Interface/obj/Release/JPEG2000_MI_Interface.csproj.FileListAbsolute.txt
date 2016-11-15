@@ -1,0 +1,16 @@
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\bin\Release\JPEG2000_MI_Interface.exe
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\bin\Release\JPEG2000_MI_Interface.pdb
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\MainWindow.g.cs
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\App.g.cs
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface_MarkupCompile.cache
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface_MarkupCompile.lref
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\MainWindow.baml
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface.g.resources
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface.Properties.Resources.resources
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface.csproj.GenerateResource.Cache
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface.exe
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface.pdb
+D:\JPEG2000_MI\JPEG2000_MI\JPEG2000_MI_Interface\obj\Release\JPEG2000_MI_Interface.csprojResolveAssemblyReference.cache
+D:\JPEG2000_MI\JPEG2000_MI\Release\JPEG2000_MI_Interface.exe
+D:\JPEG2000_MI\JPEG2000_MI\Release\JPEG2000_MI_Interface.pdb
+D:\JPEG2000_MI\JPEG2000_MI\Release\JPEG2000_MI_Interface.exe.config

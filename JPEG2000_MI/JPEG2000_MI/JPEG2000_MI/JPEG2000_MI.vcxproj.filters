@@ -1,0 +1,162 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="源文件">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="头文件">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;xsd</Extensions>
+    </Filter>
+    <Filter Include="资源文件">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="bio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="cio.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="dwt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="event.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="function_list.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="image.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="invert.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="j2k.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="jp2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mct.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_clock.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_codec.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_includes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_intmath.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_malloc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_stdint.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mqc.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="openjpeg.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="pi.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="raw.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="t1.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="t2.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tcd.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="tgt.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="t1_luts.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_inttypes.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+    <ClInclude Include="mi_config_private.h">
+      <Filter>头文件</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="bio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="cio.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="dwt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="event.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="function_list.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="image.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="invert.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="j2k.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="jp2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mct.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mi_clock.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mi_malloc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="mqc.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="openjpeg.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="pi.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="raw.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t1.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="t2.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tcd.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+    <ClCompile Include="tgt.c">
+      <Filter>源文件</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>

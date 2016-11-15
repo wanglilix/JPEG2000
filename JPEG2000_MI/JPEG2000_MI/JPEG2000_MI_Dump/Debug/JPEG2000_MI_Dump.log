@@ -1,0 +1,33 @@
+﻿  mi_dump.c
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_encoding\windirent.h(365): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_encoding\windirent.h(370): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_encoding\windirent.h(373): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_encoding\windirent.h(610): warning C4133: “函数”: 从“char *”到“LPCWSTR”的类型不兼容
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_encoding\windirent.h(644): warning C4133: “return”: 从“const WCHAR [260]”到“const char *”的类型不兼容
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_encoding\windirent.h(663): error C4996: 'strncpy': This function or variable may be unsafe. Consider using strncpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(346): note: 参见“strncpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(106): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(138): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(143): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(149): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(150): error C4996: 'strtok': This function or variable may be unsafe. Consider using strtok_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(453): note: 参见“strtok”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(151): error C4996: 'strcat': This function or variable may be unsafe. Consider using strcat_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(90): note: 参见“strcat”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(152): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(155): error C4996: 'sprintf': This function or variable may be unsafe. Consider using sprintf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(1769): note: 参见“sprintf”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(177): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(291): error C4996: 'strcpy': This function or variable may be unsafe. Consider using strcpy_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\string.h(119): note: 参见“strcpy”的声明
+d:\jpeg2000_mi\jpeg2000_mi\jpeg2000_mi_dump\mi_dump.c(435): error C4996: 'fopen': This function or variable may be unsafe. Consider using fopen_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.10240.0\ucrt\stdio.h(205): note: 参见“fopen”的声明

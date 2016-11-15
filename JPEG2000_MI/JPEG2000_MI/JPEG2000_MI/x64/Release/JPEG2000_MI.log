@@ -1,0 +1,22 @@
+﻿  bio.c
+  cio.c
+  dwt.c
+  event.c
+  function_list.c
+  image.c
+  invert.c
+  j2k.c
+  jp2.c
+  mct.c
+  mi_clock.c
+  mi_malloc.c
+  mqc.c
+  openjpeg.c
+  pi.c
+  raw.c
+  t1.c
+  t2.c
+  tcd.c
+  tgt.c
+MSVCRT.lib(exe_main.obj) : error LNK2001: 无法解析的外部符号 main
+D:\JPEG2000_MI\JPEG2000_MI\x64\Release\JPEG2000_MI.exe : fatal error LNK1120: 1 个无法解析的外部命令
